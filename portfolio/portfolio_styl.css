@@ -1,0 +1,82 @@
+
+
+
+.div p {
+  height: 400px;
+}
+
+.header {
+  list-style: none;
+  overflow: hidden;
+  background: white;
+  height: 40px;
+
+}
+
+.header li {
+  width: 100px;
+  text-align: center;
+  background: blue;
+  border:1px solid #000000;
+  float: left;
+  height: 27px;
+  line-height: 30px;
+  margin-right: 5px;
+  padding: 5px;
+}
+
+.header li a {
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+.top-wrapper {
+  padding: 200px 10px 100px 10px;
+  background-image: url("https://thumb.photo-ac.com/ab/ab7315d7d6fe4cb805ef49fd63690c20_w.jpg");
+  background-size: cover;
+  color: white;
+}
+
+
+
+
+.content_1 {
+  height: 620px;
+  text-align: left
+}
+
+.content_1 h2 {
+  padding-left: 220px;
+}
+
+.content_1 h1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-size: 30px;
+  background-color: aqua;
+}
+
+.content_2 {
+  padding-top: 200px;
+  height: 300px;
+  text-align: center;
+}
+
+.content_2 a {
+  font-size: 25px;
+  padding: 0.2em;
+}
+
+
+
+.content_3 {
+  padding-top: 250px;
+  padding-bottom: 50px;
+  height: 300px;
+  text-align: center;
+}
