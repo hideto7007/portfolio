@@ -81,6 +81,11 @@
   text-align: center;
 }
 
+.content_3 a {
+  font-size: 25px;
+  padding: 0.2em;
+}
+
 .web  {
   position: relative;
   right: 120px;
